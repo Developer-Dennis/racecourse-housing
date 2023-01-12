@@ -5,7 +5,7 @@
 </template>
 <script>
     export default {
-        name: 'houses',
+        name: 'houses_page',
         components:{
             
         }
