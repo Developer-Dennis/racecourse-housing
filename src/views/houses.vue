@@ -4,9 +4,14 @@
     </div>
 </template>
 <script>
-
+    export default {
+        name: 'houses',
+        components:{
+            
+        }
+    }
 </script>
-
+    
 <style>
 
 </style>
