@@ -24,6 +24,7 @@ nav {
   display: flex;
   background:#42b983;
   padding: 10px;
+  text-align:right;
 }
 
 nav a {
