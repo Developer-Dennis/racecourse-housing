@@ -25,12 +25,7 @@ export default {
 </script>
 
 <style >
-  body{
-    background-image: url('@/assets/home.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    
-  }
+  
   .home{
     background-color: #ffffff;
     opacity: 0.6;
